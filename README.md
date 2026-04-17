@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Josue Isamuna
 
 💻 Software Developer | JavaScript | Java  
-🚀 Future Fullstack (React / Next.js / Node.js)  
+🚀 Fullstack (React / Next.js / Node.js / Ethereum Blockchain)  
 🌍 DR Congo | 💼 Open to remote opportunities  
 
 ---
@@ -24,7 +24,7 @@ JavaScript • Java • SQL
 HTML • CSS • React • Next JS  
 
 **Backend**  
-Node.js • Java (JDBC, OOP)  
+Node.js • Java (JDBC, OOP) • Solidity 
 
 **Database**  
 MySQL • SQL Server • MongoDB 

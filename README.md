@@ -36,7 +36,7 @@ Git • GitHub • VS Code • Eclipse
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=josamuna&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=josamuna&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josamuna&layout=compact&theme=tokyonight)
 

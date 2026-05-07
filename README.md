@@ -1,78 +1,22 @@
-# 👋 Hi, I'm Josue Isamuna
+# 👋 Hi, I'm Josue
 
 💻 Software Developer | JavaScript | Java  
-🚀 Fullstack (React / Next.js / Node.js / Ethereum Blockchain)  
-🌍 DR Congo | 💼 Open to remote opportunities  
+🚀 Fullstack Developer (React / Next.js / Node.js / Blockchain)  
+🌍 DR Congo | 💼 Open to Remote Opportunities
 
----
+## ⚡ Tech Stack
 
-## 🧠 About Me
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,solidity,mongodb,mysql,git,vscode" />
+</p>
 
-- 💡 Passionate about building clean and scalable applications  
-- 🎯 Goal: Become a strong **Fullstack Developer**  
-- 🔍 Interests: Web Development, IoT, Software Engineering  
-- 📈 Continuously improving through real-world projects  
+## 📊 GitHub Analytics
 
----
-
-## ⚙️ Tech Stack
-
-**Languages**  
-JavaScript • Java • SQL  
-
-**Frontend**  
-HTML • CSS • React • Next JS  
-
-**Backend**  
-Node.js • Java (JDBC, OOP) • Solidity 
-
-**Database**  
-MySQL • SQL Server • MongoDB 
-
-**Tools**  
-Git • GitHub • VS Code • Eclipse  
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=josamuna&show_icons=true&theme=tokyonight&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josamuna&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=josamuna&theme=tokyonight)
-
----
-
-## 📈 Activity
-
-- Regular commits  
-- Focus on clean code & testing  
-- Building real-world projects  
-
----
-
-## 🧩 Current Focus
-
-- React & Next.js  
-- Backend APIs (Node.js)  
-- Software testing (unit → integration → system)  
-
----
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josamuna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Repositories info."><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josamuna&theme=tokyonight" alt="Total commits and overal activity."><br><img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=josamuna&theme=tokyo-night" alt="Daily activity">
+</p>
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/josue-isamuna-nkembo  
-- GitHub: https://github.com/josamuna  
-
----
-
-## 💡 Vision
-
-Build impactful tech solutions solving real-world problems 🌍
-
----
-
-## ⚡ Activity Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=josamuna&theme=tokyo-night)
+- LinkedIn: https://www.linkedin.com/in/josue-isamuna-nkembo
+- X (Twitter): https://x.com/josamuna
